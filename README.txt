@@ -11,10 +11,8 @@ To enable automatic PDF downloads you MUST install dompdf on your server. Steps 
 
 If you cannot run composer on server, you can ask your host to install dompdf or follow host's composer support docs.
 
-Default credentials (change after first login):
-- Admin username: uttara12345
-- Admin password: uttara12345
-- Deletion password: uttara12345
+for login the system firstly you nedd to go config.php file set username and password there and save the file and then log in the system
+
 
 Upload instructions:
 1. Upload and extract this folder into your web root (e.g., public_html/stockmaster).
